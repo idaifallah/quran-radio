@@ -68,7 +68,3 @@ Another good resource for generating a good CSP declaration is [CSP is Awesome][
 [cordova-plugin-whitelist]: http://cordova.apache.org/docs/en/latest/reference/cordova-plugin-whitelist
 [cordova-plugin-whitelist-csp]: http://cordova.apache.org/docs/en/latest/reference/cordova-plugin-whitelist#content-security-policy
 [csp-is-awesome]: http://cspisawesome.com
-=======
-# quran-radio
-Radio streaming cross platform mobile application
->>>>>>> e25d62a47a8955cdb9471aea80bd06cdc768acf8
