@@ -1,0 +1,38 @@
+body {
+	background: url('../img/background.png');
+}
+.app {
+	text-align: center;
+  	display: block;
+}
+.app div {
+	overflow: hidden;
+	text-align: center;
+}
+.app div img{
+	width: 200px;
+}
+#audioContainer{
+	margin-top: 200px;
+}
+#audioContainer audio{
+	width: 270px;
+}
+#frequencies {
+	display: flex;
+	flex-direction: row;
+	width: 280px;
+	margin: auto;
+}
+#frequencies span{
+	padding-left: 58px;
+}
+#frequencies span:first-child{
+	padding-left: 3px;
+}
+#website{
+	letter-spacing: 1px;
+}
+#location{
+	letter-spacing: 3px;
+}
